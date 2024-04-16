@@ -9,7 +9,7 @@ setup(
    author_email='k.degtyarev4@mail.ru',
    url='https://github.com/Kirilligu/setup',
    packages=['mtracker'],
-   install_requires=[numpy],
+   install_requires=[],
    extras_require={
         'test': [
             'pytest',
