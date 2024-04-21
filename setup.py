@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-   name='triangle_area_calculator',
+   name='rectangle_area_calculator',
    version='1.0',
-   description='a utility that calculates the area of a triangle',
+   description='a utility that calculates the area of a rectangle',
    license='MIT',
    author='Kirilligu',
    author_email='k.degtyarev4@mail.ru',
