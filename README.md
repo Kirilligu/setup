@@ -25,6 +25,7 @@ cd kod
 python3 area.py
 
 The code prompts you to enter the length and width to calculate the area of the rectangle. After you enter them, it will show the calculated area.
+
 ![image](https://github.com/Kirilligu/setup/assets/149255706/43148783-bccb-416b-9e32-ecb618797473)
 
 # Testing
@@ -42,4 +43,4 @@ pytest
 This project is licensed under the MIT license - see the LICENSE file for details.
 
 # The author of the project
-Kirilligu()
+Kirilligu (https://github.com/Kirilligu)
